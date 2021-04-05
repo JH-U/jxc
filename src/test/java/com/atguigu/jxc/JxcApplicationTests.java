@@ -13,4 +13,5 @@ public class JxcApplicationTests {
 	public void contextLoads() {
 	}
 
+	private String pre;
 }
