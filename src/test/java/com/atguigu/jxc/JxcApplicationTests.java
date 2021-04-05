@@ -12,5 +12,9 @@ public class JxcApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	@Test
+	public void Hello(){}
+
 
 }
