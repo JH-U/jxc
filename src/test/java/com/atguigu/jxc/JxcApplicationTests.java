@@ -12,5 +12,7 @@ public class JxcApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	private String prev;
 
 }
